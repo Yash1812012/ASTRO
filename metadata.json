@@ -1,0 +1,6 @@
+{
+  "name": "Aetheria — Celestial Astrology & Birth Chart",
+  "description": "Personalized daily horoscopes, birth chart calculations, zodiac compatibility, moon phase tracking, and planetary transit alerts. Built by Yash Mishra.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
